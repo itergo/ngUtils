@@ -1,2 +1,3 @@
-# ngUtils
-Utils for Angular
+Angular utils.
+
+Readme in progress :)
